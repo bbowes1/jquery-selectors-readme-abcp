@@ -7,4 +7,4 @@ function lastImageSelector(){
   return $('div img:last-child');
 }
 
-fu
+function
